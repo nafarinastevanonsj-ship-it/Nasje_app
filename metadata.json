@@ -1,0 +1,6 @@
+{
+  "name": "Unreal Engine 5",
+  "description": "Unreal Engine 5 Mobile Editor: Realtime 3D Viewport with Nanite & Lumen simulation, Actor Hierarchy, Transform Gizmos, Blueprint Visual Scripting, Material Editor & PIE mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
